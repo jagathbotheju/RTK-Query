@@ -1,2 +1,3 @@
-# RTK-Query
-Created with CodeSandbox
+# RTK Query - dave gray
+
+- simple RTK Query CRUD ops.
